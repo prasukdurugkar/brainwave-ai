@@ -826,8 +826,6 @@ export default Roadmap;
 ## <a name="links">🔗 Links</a>
 
 - [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
-- [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
-- [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Live Website](https://jsm-brainwave.com/)
+- [Live Website]([https://jsm-brainwave.com/](https://66c46576388c85ecb2526340--ornate-faun-f45993.netlify.app/))
 
 "# brainwave-ai" 
